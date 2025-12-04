@@ -6,6 +6,10 @@
 
 The app leverages Android's PackageManager API to extract and display app metadata, permissions, and manifest information in a clean, modern interface built with Jetpack Compose.
 
+## App Screenshots
+
+| <img src="screenshots/Screenshot_app_list.png"> | <img src="screenshots/Screenshot_app_info.png"> | <img src="screenshots/Screenshot_app_manifest.png">
+| ---------------------------------------------- | -------------------------------------------- | -------------------------------------------
 ## Features
 
 - **App List View**: Browse all installed applications on your device with support for filtering system apps
