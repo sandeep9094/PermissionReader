@@ -84,8 +84,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This project welcomes contributions from anyone in the community. Feel free to submit PRs or open issues.
 
-## Author
-
-**DevelopIdea**
-
-For questions, suggestions, or feedback, please open an issue on the repository.
