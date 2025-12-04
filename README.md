@@ -1,8 +1,8 @@
 # PermissionReader
 
-## Project Title & Overview
+It provides comprehensive insights into installed applications on your device. The app allows users to browse installed apps, view detailed app information, inspect requested permissions, and examine AndroidManifest.xml content. 
 
-**PermissionReader** is an Android application that provides comprehensive insights into installed applications on your device. The app allows users to browse installed apps, view detailed app information, inspect requested permissions, and examine AndroidManifest.xml content. It's designed for developers, security researchers, and users who want to understand what permissions and components their installed apps are using.
+It's designed for developers, security researchers, and users who want to understand what permissions and components their installed apps are using.
 
 The app leverages Android's PackageManager API to extract and display app metadata, permissions, and manifest information in a clean, modern interface built with Jetpack Compose.
 
@@ -10,6 +10,7 @@ The app leverages Android's PackageManager API to extract and display app metada
 
 | <img src="screenshots/Screenshot_app_list.png"> | <img src="screenshots/Screenshot_app_info.png"> | <img src="screenshots/Screenshot_app_manifest.png">
 | ---------------------------------------------- | -------------------------------------------- | -------------------------------------------
+
 ## Features
 
 - **App List View**: Browse all installed applications on your device with support for filtering system apps
